@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @majeistudio
-- 👀 I’m interested in Front / Backend Dev  & 2/3D Graphic Degsining...
-- 🌱 I’m currently learning Frontend Dev...
-- 💞️ I’m looking to collaborate on Java script
+- 👀 I’m interested in Frontend / Backend Dev  & 2/3D Graphic Degsining...
+- 🌱 I’m currently learning css and js.
+- 💞️ I’m looking to collaborate on css and Java script
 - 📫 How to reach me : email amajilanga@gmail.com +255 750505017
 
 <!---
